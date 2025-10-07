@@ -1,0 +1,119 @@
+iframe{
+    width: 100%;
+}
+
+header{
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 60px;
+    color: rgb(58, 100, 114);
+    background-color: rgb(153, 196, 209);
+    padding: 1em;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(58, 100, 114);
+    font-style: normal;
+    letter-spacing: 5px;
+    text-align: center;
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+    font-style: normal;
+}
+
+.stór{
+    font-size: 50px;
+    font-family: inherit;
+    color: rgb(0, 0, 0);
+    
+}
+
+nav ul{
+    list-style: none;
+    padding: 2;
+    text-align: center;
+    border-bottom: 1px solid;
+    padding: 25px;
+}
+
+footer{
+    font-size: medium;
+    letter-spacing: 5px;
+    padding: 20px;
+    line-height: 30px;
+}
+
+article{
+    border: solid 5px;
+    padding: 1em;
+    margin: 1em;
+    border-color: rgb(109, 167, 167);
+}
+
+img{
+    width: 100%;
+    size: 1em;
+}
+
+.mynd1{
+    width: 20%;
+    border: solid 1px;
+    float: right;
+    margin: 1em;
+    border-radius: 50%;
+    min-width: 200px;
+
+}
+
+h2{
+    font-style: normal;
+    font-size: xxx-large;
+    text-align: center;
+    letter-spacing: 10px;
+    color: rgb(119, 126, 94);
+}
+
+.Chris{
+    width: 30%;
+    border: solid 2px;
+    color: rgb(243, 240, 89);
+
+    
+}
+
+.Hljómsveitin{
+    width: 47%;
+    border: solid 2px;
+    color: rgb(243, 240, 89);
+   
+}
+
+.texti1{
+    text-align: center;
+}
+
+h4{
+    font-family: monospace;
+    font-style: normal;
+    font-size: large;
+    
+}
+
+div{
+    text-align: center;
+}
+
+a{
+    color: rgb(69, 126, 126);
+}
+
+a:hover{
+    color: rgb(132, 133, 76);
+}
