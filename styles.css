@@ -48,6 +48,9 @@ footer{
     letter-spacing: 5px;
     padding: 20px;
     line-height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    text-align: center;
 }
 
 article{
@@ -55,6 +58,7 @@ article{
     padding: 1em;
     margin: 1em;
     border-color: rgb(109, 167, 167);
+    background-color: rgb(153, 196, 209);
 }
 
 img{
@@ -116,4 +120,25 @@ a{
 
 a:hover{
     color: rgb(132, 133, 76);
+}
+
+body{
+    background-color: rgb(153, 196, 209);
+}
+
+ul{
+    list-style: none;
+}
+
+@media (width < 650px){
+
+    header{
+        font-size: 40px;
+    }
+
+    footer{
+        font-size: 10px;
+        letter-spacing: 2px;
+    }
+
 }
